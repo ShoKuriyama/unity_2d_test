@@ -4,7 +4,7 @@ public class ball : MonoBehaviour
 {
     private Rigidbody2D myRigidBody;
     public float speedX = 10;
-    public float speedY = 10;
+    public float speedY = 15;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
